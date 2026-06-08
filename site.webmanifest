@@ -1,0 +1,13 @@
+{
+  "name": "Hospedaje Tumbesol",
+  "short_name": "Tumbesol",
+  "description": "Hotel económico y seguro en Tumbes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FEF4DA",
+  "theme_color": "#FA7401",
+  "icons": [
+    { "src": "img/favicon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "img/favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
