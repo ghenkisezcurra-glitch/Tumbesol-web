@@ -1,0 +1,12 @@
+# Configuración local (no se publica en tumbesol.com)
+.claude/
+CLAUDE.local.md
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+*.swp
